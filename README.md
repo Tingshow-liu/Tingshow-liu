@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 My name is Claire, nice to meet you!
+Welcome to know more about me [here](https://tingshow-liu.github.io/)
 
 <!--
 **Tingshow-liu/Tingshow-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
